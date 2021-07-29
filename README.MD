@@ -16,7 +16,7 @@
 <br />
 
 <p align="center">
-  <a href="https://mitosis.builder.io/">
+  <a href="https://jsx-lite.builder.io/">
     <img width="800" alt="Fiddle" src="https://imgur.com/H1WTtGe.gif" />
   </a>
 </p>
@@ -42,7 +42,7 @@
           <img height="50" src="https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fa508a4de1529463fb0ea31ccc8da7a19" />
         </p>
         <p align="center">
-          Try our  <a href="https://mitosis.builder.io/"><b>interactive fiddle</b></a>
+          Try our  <a href="https://jsx-lite.builder.io/"><b>interactive fiddle</b></a>
         </p>
       </td>
     </tr>
@@ -51,7 +51,7 @@
         <a href="https://github.com/builderio/figma-html"><img width="400" alt="Figma plugin" src="https://i.imgur.com/BoKsLFs.gif" /></a>
       </td>
       <td>
-        <a href="https://mitosis.builder.io/"><img width="400" alt="Fiddle" src="https://imgur.com/H1WTtGe.gif" /></a>
+        <a href="https://jsx-lite.builder.io/"><img width="400" alt="Fiddle" src="https://imgur.com/H1WTtGe.gif" /></a>
       </td>
     </tr>
     <tr>
